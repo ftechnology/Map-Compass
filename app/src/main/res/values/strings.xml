@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Map compass</string>
+    <string name="title_activity_maps">Map compass</string>
+    <string name="map_key">AIzaSyAulNffLUReks-v2_m7t6MnwkFqz0CPVWQ</string>
+</resources>
